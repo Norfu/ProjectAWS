@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Vive c#
+          Vive c# et blazor
         </a>
       </header>
     </div>
